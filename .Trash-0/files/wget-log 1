@@ -1,11 +1,0 @@
---2023-06-08 18:46:30--  https://static.standard.co.uk/s3fs-public/thumbnails/image/2013/05/14/06/an1.jpg?width=968
-Resolving static.standard.co.uk (static.standard.co.uk)... 151.101.65.91, 151.101.1.91, 151.101.193.91, ...
-Connecting to static.standard.co.uk (static.standard.co.uk)|151.101.65.91|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 41255 (40K) [image/jpeg]
-Saving to: ‘an1.jpg?width=968’
-
-an1.jpg?width=968                            0%[                                                                                        ]       0  --.-KB/s               an1.jpg?width=968                          100%[=======================================================================================>]  40.29K  --.-KB/s    in 0.001s  
-
-2023-06-08 18:46:30 (31.9 MB/s) - ‘an1.jpg?width=968’ saved [41255/41255]
-
