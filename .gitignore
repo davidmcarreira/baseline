@@ -1,0 +1,8 @@
+# Ignore the data folder and its contents
+data/
+
+# Ignore the datasets folder and its contents
+datasets/
+
+# Ignore the lfw folder and its contents
+lfw/
