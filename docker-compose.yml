@@ -9,6 +9,7 @@ services:
       #image: torch-wandb:latest
       build: . #path to dockerfile
       #ipc: host
+      shm_size: "48g"
       ports: 
         - "8888:8888" #<host port>:<container port>
       environment:
