@@ -4,4 +4,12 @@ datasets/
 
 lfw/
 
+lfw_cropped/
+
+lfw_cropped2/
+
 .*/
+
+*.tgz
+
+*.zip

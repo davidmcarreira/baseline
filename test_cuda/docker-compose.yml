@@ -1,0 +1,28 @@
+version: "2.3"
+
+services:
+    test_cuda:
+      command: nvidia-smi
+      runtime: nvidia
+      stdin_open: true # docker run -i
+      tty: true # docker run -t
+      #image: torch-wandb:latest
+      build: . #path to dockerfile
+      #ipc: host
+      shm_size: "48g"
+      ports: 
+        - "8888:8888" #<host port>:<container port>
+      environment:
+        - NVIDIA_VISIBLE_DEVICES=all
+        - JUPYTER_ENABLE_LAB=yes
+      volumes:
+        - ./:/test_cuda/
+        - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      #network_mode: host
+      container_name: test_cuda1
+
+
+      entrypoint: ["bash", "-c", "jupyter lab --ip 0.0.0.0 --port 8888 --allow-root"]
+      # command:
+      #   - bash -c "jupyter lab --ip 0.0.0.0 --port 8888 --allow-root" #Starts jupyter server on port 8888 on the remote host
+      #   - bash -c "ssh -N -L 8888:localhost:8888 davidcarreira@minilla-isr" # Tunneling to host port 8888
