@@ -8,6 +8,14 @@ lfw_cropped/
 
 lfw_cropped2/
 
+cplfw/
+
+cplfw_cropped/
+
+xqlfw/
+
+xqlfw_cropped/
+
 .*/
 
 *.tgz
