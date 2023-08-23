@@ -1,0 +1,222 @@
+  Trial#10
+    Values: lfw=0.9185000000000001, xqlfw=0.5945, cplfw=0.681
+    Params: {'lr': 0.005436204781820908, 'margin': 0.0010115368613418272, 'optimizer': 'Adam', 'scale': 20}
+  Trial#32
+    Values: lfw=0.9436666666666665, xqlfw=0.589, cplfw=0.6943333333333335
+    Params: {'lr': 0.027921627884713432, 'margin': 0.006842099504458255, 'optimizer': 'SGD', 'scale': 8}
+  Trial#61
+    Values: lfw=0.967, xqlfw=0.5873333333333333, cplfw=0.7366666666666666
+    Params: {'lr': 0.0019286952513969235, 'margin': 0.4822010448510564, 'optimizer': 'SGD', 'scale': 14}
+  Trial#48
+    Values: lfw=0.9673333333333334, xqlfw=0.5668333333333333, cplfw=0.7341666666666666
+    Params: {'lr': 0.0004933051392855988, 'margin': 0.06913958081585121, 'optimizer': 'SGD', 'scale': 28}
+  Trial#45
+    Values: lfw=0.9676666666666668, xqlfw=0.5511666666666667, cplfw=0.7308333333333333
+    Params: {'lr': 0.0001690327945135908, 'margin': 0.02871984722323855, 'optimizer': 'SGD', 'scale': 20}
+  Trial#22
+    Values: lfw=0.9676666666666668, xqlfw=0.5513333333333332, cplfw=0.7254999999999999
+    Params: {'lr': 3.8757785106732374e-05, 'margin': 0.00018565880925494222, 'optimizer': 'SGD', 'scale': 70}
+  Trial#0
+    Values: lfw=0.9655000000000001, xqlfw=0.5588333333333334, cplfw=0.727
+    Params: {'lr': 2.8592562817383153e-05, 'margin': 0.0016717252025178712, 'optimizer': 'SGD', 'scale': 42}
+  Trial#20
+    Values: lfw=0.966, xqlfw=0.5581666666666666, cplfw=0.7303333333333333
+    Params: {'lr': 0.029043577279768758, 'margin': 0.02031762832842416, 'optimizer': 'Adam', 'scale': 28}
+  Trial#1
+    Values: lfw=0.9661666666666667, xqlfw=0.5505, cplfw=0.7334999999999999
+    Params: {'lr': 4.335801833317778e-05, 'margin': 0.0002877382913252422, 'optimizer': 'SGD', 'scale': 30}
+  Trial#7
+    Values: lfw=0.9661666666666667, xqlfw=0.5578333333333333, cplfw=0.7271666666666667
+    Params: {'lr': 0.009967852243176575, 'margin': 0.00016692431961656812, 'optimizer': 'SGD', 'scale': 32}
+  Trial#11
+    Values: lfw=0.9666666666666666, xqlfw=0.5555000000000001, cplfw=0.7293333333333333
+    Params: {'lr': 0.06792579497731495, 'margin': 0.1656298541130534, 'optimizer': 'Adam', 'scale': 50}
+  Trial#9
+    Values: lfw=0.967, xqlfw=0.5515, cplfw=0.7333333333333333
+    Params: {'lr': 0.00019378267434983477, 'margin': 0.10945018013824626, 'optimizer': 'SGD', 'scale': 58}
+  Trial#12
+    Values: lfw=0.967, xqlfw=0.5555, cplfw=0.7311666666666666
+    Params: {'lr': 0.0003189524498536532, 'margin': 0.07373911874170277, 'optimizer': 'Adam', 'scale': 62}
+  Trial#16
+    Values: lfw=0.9673333333333334, xqlfw=0.5555, cplfw=0.7295
+    Params: {'lr': 0.00039157245184365453, 'margin': 0.0007142555358277536, 'optimizer': 'Adam', 'scale': 62}
+  Trial#6
+    Values: lfw=0.9675, xqlfw=0.5496666666666666, cplfw=0.7320000000000001
+    Params: {'lr': 1.072739362105445e-06, 'margin': 0.29422044580635676, 'optimizer': 'Adam', 'scale': 46}
+  Trial#61
+    Values: lfw=0.9656666666666667, xqlfw=0.5505, cplfw=0.7333333333333334
+    Params: {'lr': 0.00273392364408108, 'margin': 0.0001488205318937931, 'optimizer': 'Adam', 'scale': 22}
+  Trial#3
+    Values: lfw=0.9663333333333333, xqlfw=0.5526666666666666, cplfw=0.7329999999999999
+    Params: {'lr': 0.0015673073249298862, 'margin': 0.0013412687237559044, 'optimizer': 'SGD', 'scale': 58}
+  Trial#6
+    Values: lfw=0.9665000000000001, xqlfw=0.559, cplfw=0.7291666666666666
+    Params: {'lr': 0.04588426312745486, 'margin': 0.3416011442832058, 'optimizer': 'Adam', 'scale': 28}
+  Trial#127
+    Values: lfw=0.9666666666666666, xqlfw=0.5584999999999999, cplfw=0.7318333333333333
+    Params: {'lr': 0.048592544537104654, 'margin': 0.011081960844341739, 'optimizer': 'SGD', 'scale': 10}
+  Trial#1
+    Values: lfw=0.9671666666666667, xqlfw=0.5568333333333333, cplfw=0.7281666666666667
+    Params: {'lr': 0.04106143345405813, 'margin': 0.0034913506771497497, 'optimizer': 'Adam', 'scale': 50}
+  Trial#100
+    Values: lfw=0.9673333333333332, xqlfw=0.5546666666666668, cplfw=0.7296666666666666
+    Params: {'lr': 0.08816115982377844, 'margin': 0.0002333704829746778, 'optimizer': 'SGD', 'scale': 66}
+  Trial#93
+    Values: lfw=0.9673333333333334, xqlfw=0.5536666666666666, cplfw=0.7326666666666666
+    Params: {'lr': 0.0031690448144536527, 'margin': 0.213810999878832, 'optimizer': 'Adam', 'scale': 16}
+  Trial#98
+    Values: lfw=0.9673333333333334, xqlfw=0.5543333333333333, cplfw=0.7270000000000001
+    Params: {'lr': 0.015204690786625553, 'margin': 0.049830508263598736, 'optimizer': 'SGD', 'scale': 34}
+  Trial#57
+    Values: lfw=0.9678333333333334, xqlfw=0.5523333333333333, cplfw=0.7316666666666667
+    Params: {'lr': 0.08317863659431152, 'margin': 0.09375694533816167, 'optimizer': 'Adam', 'scale': 64}
+  Trial#61
+    Values: lfw=0.9656666666666667, xqlfw=0.5505, cplfw=0.7333333333333334
+    Params: {'lr': 0.00273392364408108, 'margin': 0.0001488205318937931, 'optimizer': 'Adam', 'scale': 22}
+  Trial#3
+    Values: lfw=0.9663333333333333, xqlfw=0.5526666666666666, cplfw=0.7329999999999999
+    Params: {'lr': 0.0015673073249298862, 'margin': 0.0013412687237559044, 'optimizer': 'SGD', 'scale': 58}
+  Trial#6
+    Values: lfw=0.9665000000000001, xqlfw=0.559, cplfw=0.7291666666666666
+    Params: {'lr': 0.04588426312745486, 'margin': 0.3416011442832058, 'optimizer': 'Adam', 'scale': 28}
+  Trial#127
+    Values: lfw=0.9666666666666666, xqlfw=0.5584999999999999, cplfw=0.7318333333333333
+    Params: {'lr': 0.048592544537104654, 'margin': 0.011081960844341739, 'optimizer': 'SGD', 'scale': 10}
+  Trial#1
+    Values: lfw=0.9671666666666667, xqlfw=0.5568333333333333, cplfw=0.7281666666666667
+    Params: {'lr': 0.04106143345405813, 'margin': 0.0034913506771497497, 'optimizer': 'Adam', 'scale': 50}
+  Trial#100
+    Values: lfw=0.9673333333333332, xqlfw=0.5546666666666668, cplfw=0.7296666666666666
+    Params: {'lr': 0.08816115982377844, 'margin': 0.0002333704829746778, 'optimizer': 'SGD', 'scale': 66}
+  Trial#93
+    Values: lfw=0.9673333333333334, xqlfw=0.5536666666666666, cplfw=0.7326666666666666
+    Params: {'lr': 0.0031690448144536527, 'margin': 0.213810999878832, 'optimizer': 'Adam', 'scale': 16}
+  Trial#98
+    Values: lfw=0.9673333333333334, xqlfw=0.5543333333333333, cplfw=0.7270000000000001
+    Params: {'lr': 0.015204690786625553, 'margin': 0.049830508263598736, 'optimizer': 'SGD', 'scale': 34}
+  Trial#57
+    Values: lfw=0.9678333333333334, xqlfw=0.5523333333333333, cplfw=0.7316666666666667
+    Params: {'lr': 0.08317863659431152, 'margin': 0.09375694533816167, 'optimizer': 'Adam', 'scale': 64}
+
+Facenet + ArcFace hyperparameter tuning only last_bn, back to rgb and lr scheduler 8.2
+  Trial#1
+    Values: lfw=0.9629999999999999, xqlfw=0.5825, cplfw=0.7436666666666667
+    Params: {'lr': 0.005768744347364216, 'margin': 0.002365156921458755, 'scale': 66}
+  Trial#4
+    Values: lfw=0.9629999999999999, xqlfw=0.5871666666666667, cplfw=0.7413333333333334
+    Params: {'lr': 0.007046515738692177, 'margin': 0.043296734172829504, 'scale': 42}
+  Trial#3
+    Values: lfw=0.966, xqlfw=0.5808333333333333, cplfw=0.7461666666666666
+    Params: {'lr': 0.055193638346239096, 'margin': 0.012660125179235843, 'scale': 28}
+
+========== Facenet + ArcFace hyperparameter tuning only last_bn, back to rgb and lr scheduler 8.2 ==========
+  Trial#1
+    Values: lfw=0.9629999999999999, xqlfw=0.5825, cplfw=0.7436666666666667
+    Params: {'lr': 0.005768744347364216, 'margin': 0.002365156921458755, 'scale': 66}
+  Trial#4
+    Values: lfw=0.9629999999999999, xqlfw=0.5871666666666667, cplfw=0.7413333333333334
+    Params: {'lr': 0.007046515738692177, 'margin': 0.043296734172829504, 'scale': 42}
+  Trial#3
+    Values: lfw=0.966, xqlfw=0.5808333333333333, cplfw=0.7461666666666666
+    Params: {'lr': 0.055193638346239096, 'margin': 0.012660125179235843, 'scale': 28}
+
+========== Facenet + ArcFace hyperparameter tuning only last_bn, back to rgb and lr scheduler 8.2 ==========
+
+========== Facenet + ArcFace hyperparameter tuning only last_bn, back to rgb and lr scheduler 8.4 sqlite:///study10.db ==========
+  Trial#13
+    Values: lfw=0.9720000000000001, xqlfw=0.6071666666666666, cplfw=0.7631666666666667
+    Params: {'lr': 0.018722498867430888, 'margin': 0.39305608260734193, 'scale': 10}
+  Trial#39
+    Values: lfw=0.9726666666666667, xqlfw=0.6123333333333332, cplfw=0.7611666666666668
+    Params: {'lr': 0.09648766609741188, 'margin': 0.2924960183190111, 'scale': 18}
+  Trial#26
+    Values: lfw=0.9730000000000001, xqlfw=0.6013333333333333, cplfw=0.7646666666666666
+    Params: {'lr': 0.011317057325771382, 'margin': 0.43253539078417147, 'scale': 12}
+  Trial#22
+    Values: lfw=0.9730000000000001, xqlfw=0.6020000000000001, cplfw=0.7635000000000001
+    Params: {'lr': 0.012454262678527906, 'margin': 0.32904664132396055, 'scale': 10}
+  Trial#1
+    Values: lfw=0.9733333333333334, xqlfw=0.6126666666666667, cplfw=0.7608333333333333
+    Params: {'lr': 0.02679592556197476, 'margin': 0.00045310220863526926, 'scale': 70}
+  Trial#31
+    Values: lfw=0.9738333333333333, xqlfw=0.6034999999999999, cplfw=0.763
+    Params: {'lr': 0.005670531144015688, 'margin': 0.08383941731560181, 'scale': 8}
+  Trial#23
+    Values: lfw=0.974, xqlfw=0.6114999999999999, cplfw=0.7616666666666667
+    Params: {'lr': 0.036553239496575414, 'margin': 0.00010695815351853526, 'scale': 48}
+  Trial#0
+    Values: lfw=0.9744999999999999, xqlfw=0.6110000000000001, cplfw=0.7621666666666667
+    Params: {'lr': 0.036513197896306644, 'margin': 0.0009256961802677179, 'scale': 48}
+  Trial#49
+    Values: lfw=0.9746666666666666, xqlfw=0.6114999999999999, cplfw=0.7596666666666667
+    Params: {'lr': 0.008371785151268006, 'margin': 0.006560121232983153, 'scale': 70}
+  Trial#50
+    Values: lfw=0.9748333333333333, xqlfw=0.6098333333333332, cplfw=0.7598333333333334
+    Params: {'lr': 0.04587905070906213, 'margin': 0.014188005034971939, 'scale': 44}
+  Trial#16
+    Values: lfw=0.975, xqlfw=0.6086666666666666, cplfw=0.7605
+    Params: {'lr': 0.01155931715330369, 'margin': 0.02180954974023416, 'scale': 28}
+  Trial#41
+    Values: lfw=0.9751666666666667, xqlfw=0.6098333333333333, cplfw=0.7590000000000001
+    Params: {'lr': 0.0064139413060544164, 'margin': 0.0006963197111954204, 'scale': 46}
+  Trial#40
+    Values: lfw=0.9751666666666667, xqlfw=0.6103333333333334, cplfw=0.7585
+    Params: {'lr': 0.034857450104406655, 'margin': 0.01681782966801574, 'scale': 46}
+  Trial#45
+    Values: lfw=0.9751666666666667, xqlfw=0.6108333333333332, cplfw=0.7558333333333334
+    Params: {'lr': 0.023233450511622497, 'margin': 0.039618526682688754, 'scale': 50}
+  Trial#4
+    Values: lfw=0.9753333333333334, xqlfw=0.6081666666666666, cplfw=0.7623333333333334
+    Params: {'lr': 0.009178612752783586, 'margin': 0.005755981982734823, 'scale': 38}
+  Trial#29
+    Values: lfw=0.9753333333333334, xqlfw=0.6098333333333333, cplfw=0.7576666666666666
+    Params: {'lr': 0.005467925717843269, 'margin': 0.03581547293954463, 'scale': 62}
+  Trial#33
+    Values: lfw=0.9753333333333334, xqlfw=0.6106666666666667, cplfw=0.7545000000000001
+    Params: {'lr': 0.010644285205602927, 'margin': 0.028878932747865595, 'scale': 56}
+
+========== Facenet + ArcFace hyperparameter tuning only last_bn, back to rgb and lr scheduler 8.5 sqlite:///study11.db ==========
+  Trial#6
+    Values: lfw=0.9735000000000001, xqlfw=0.6089999999999999, cplfw=0.7609999999999999
+    Params: {'lr': 0.09675656059483954, 'margin': 0.7927435568948068, 'scale': 54}
+  Trial#12
+    Values: lfw=0.9738333333333336, xqlfw=0.608, cplfw=0.7598333333333334
+    Params: {'lr': 0.01611696735169393, 'margin': 1.6553133972770815, 'scale': 24}
+  Trial#15
+    Values: lfw=0.9743333333333334, xqlfw=0.6125, cplfw=0.759
+    Params: {'lr': 0.01760281279004061, 'margin': 1.0667482231033512, 'scale': 60}
+  Trial#0
+    Values: lfw=0.9744999999999999, xqlfw=0.608, cplfw=0.7591666666666668
+    Params: {'lr': 0.021045773055851633, 'margin': 1.7489149082082822, 'scale': 54}
+  Trial#4
+    Values: lfw=0.9744999999999999, xqlfw=0.6088333333333333, cplfw=0.7583333333333333
+    Params: {'lr': 0.022151621076379177, 'margin': 1.5238430837910604, 'scale': 62}
+  Trial#18
+    Values: lfw=0.9746666666666666, xqlfw=0.6074999999999999, cplfw=0.7626666666666667
+    Params: {'lr': 0.005299002650082889, 'margin': 0.7835673950767506, 'scale': 24}
+  Trial#10
+    Values: lfw=0.9751666666666667, xqlfw=0.607, cplfw=0.7628333333333333
+    Params: {'lr': 0.019504775327924172, 'margin': 1.9921766542838446, 'scale': 24}
+
+========== Study 24 sqlite:///optuna/study24.db ==========
+  Trial#4
+    Values: lfw=0.9733333333333334, xqlfw=0.6116666666666667, cplfw=0.7643333333333333
+    Params: {'lr': 0.0007833668991176119, 'margin': 0.6490826400780623, 'scale': 46}
+  Trial#11
+    Values: lfw=0.9735000000000001, xqlfw=0.6098333333333333, cplfw=0.7635000000000001
+    Params: {'lr': 9.608760165812822e-05, 'margin': 0.6516768828960593, 'scale': 48}
+  Trial#5
+    Values: lfw=0.9736666666666668, xqlfw=0.6064999999999999, cplfw=0.7645000000000001
+    Params: {'lr': 0.0008834887337302937, 'margin': 0.9686914364070704, 'scale': 6}
+  Trial#2
+    Values: lfw=0.9738333333333333, xqlfw=0.6061666666666666, cplfw=0.7653333333333333
+    Params: {'lr': 9.423182105892358e-05, 'margin': 0.7370067032421564, 'scale': 42}
+  Trial#12
+    Values: lfw=0.9738333333333333, xqlfw=0.608, cplfw=0.7645
+    Params: {'lr': 0.0006298585141580693, 'margin': 0.8356463125372037, 'scale': 60}
+  Trial#3
+    Values: lfw=0.9744999999999999, xqlfw=0.6104999999999999, cplfw=0.7631666666666668
+    Params: {'lr': 7.964973670002003e-05, 'margin': 0.6528980006471923, 'scale': 50}
+  Trial#10
+    Values: lfw=0.9746666666666666, xqlfw=0.6103333333333333, cplfw=0.7598333333333332
+    Params: {'lr': 0.0005230276912227947, 'margin': 0.5208603320986472, 'scale': 10}
